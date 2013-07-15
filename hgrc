@@ -1,0 +1,5 @@
+[ui]
+username = Brian Kiefer <brian@briankiefer.com>
+verbose = True
+ssh = ssh -C
+
